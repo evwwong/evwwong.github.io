@@ -1,32 +1,34 @@
-[
-	{
+{
+	"projects": [
+		{
         "title": "Big Ticket",
         "description": "A browser extension and web app that helps users make confident purchasing decisions for big-ticket items through price tracking and product comparisons.",
         "role": "Freelance Designer",
         "time": "June 2024 - Current"
-    },
-	{
+		},
+		{
         "title": "MonsterNums",
         "description": "A Math-learning platform for children with ADHD and neurodivergent needs",
         "role": "UX Researcher",
         "time": "June 2024 - Current"
-    },
-    {
+    	},
+    	{
         "title": "Sticket.In LLC",
         "description": "A ticket brokerage inventory management platform replacing spreadsheet systems for live event companies.",
         "role": "Freelance Designer",
         "time": "Jan 2024 - May 2024"
-    },
-    {
+   		},
+    	{
         "title": "WeManage",
         "description": "A property management system for hotels, streamlining operations with research-based task flows.",
         "role": "Freelance UX Researcher",
         "time": "Sep 2023 - Dec 2023"
-    },
-	{
+    	},
+		{
         "title": "GraduateNU",
         "description": "An interactive academic semester planner tool designed for managing graduation timelines at Northeastern University.",
         "role": "UX Designer",
         "time": "Sep 2023 - May 2023"
-    }
-]
+    	}
+	]
+}
